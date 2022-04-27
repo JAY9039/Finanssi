@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50e0e961.css",
+    "main.js": "/static/js/main.65a0ba25.js",
+    "static/media/Investing.mp4": "/static/media/Investing.f14ef07d867c460ae363.mp4",
+    "static/media/Stocks.mp4": "/static/media/Stocks.2735130ee41b866697dd.mp4",
+    "static/media/Freedom.mp4": "/static/media/Freedom.8f98e607d63aeecdf5f4.mp4",
+    "static/media/Crypto.mp4": "/static/media/Crypto.eb78274d2adca5297ade.mp4",
+    "static/media/Diversification.mp4": "/static/media/Diversification.3153dfba00411ba2dc75.mp4",
+    "static/media/PER.mp4": "/static/media/PER.8412aa8672ba0574381a.mp4",
+    "static/media/risk.mp4": "/static/media/risk.e476e60a9338817244d9.mp4",
+    "static/media/video1.mp4": "/static/media/video1.4c0c6f882716faeafffd.mp4",
+    "static/media/video2.mp4": "/static/media/video2.a1239b6948471be13b61.mp4",
+    "static/media/1.jpg": "/static/media/1.ea31044532ea256251b7.jpg",
+    "index.html": "/index.html",
+    "main.50e0e961.css.map": "/static/css/main.50e0e961.css.map",
+    "main.65a0ba25.js.map": "/static/js/main.65a0ba25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50e0e961.css",
+    "static/js/main.65a0ba25.js"
+  ]
+}
