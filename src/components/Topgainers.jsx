@@ -23,6 +23,12 @@ return (
         </Title>
         </div>
         <p>
+        Gainers are the stocks that tend to close with a higher price than what they opened with/their previous close price in an intraday market. If they are a part of any indices, the market indices shoot up. Conversely, when market indices are rising, the possibility of there being more gainers than losers is higher. NSE India publishes the top gainers and losers of the market categorically and updates it on a real time basis. They are expressed in absolute terms and percentage terms. The gainers are arranged in the list in a descending order. 
+
+        <br />
+        <br />
+        <br />
+        <br />
         The Nifty index was launched on April 22, 1996, with a base value of 1,000 counted from November 3, 1995.
          Here you can check the prices, value and much more..
         </p>

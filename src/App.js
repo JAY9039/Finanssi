@@ -17,6 +17,7 @@ import {
   LineChart,
   NiftyFiftyDetails
 } from "./components";
+import Knowledge from "./components/Knowledge";
 import "./App.css";
 
 const App = () => {
@@ -69,6 +70,10 @@ const App = () => {
 
               <Route exact path="/news">
                 <News />
+              </Route>
+
+              <Route exact path="/knowledge">
+                <Knowledge />
               </Route>
             </Switch>
           </div>

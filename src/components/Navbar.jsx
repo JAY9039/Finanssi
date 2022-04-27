@@ -16,6 +16,7 @@ import {
   MonitorOutlined,
   StockOutlined,
   PhoneTwoTone,
+  BookOutlined
 } from "@ant-design/icons";
 import icon from "../images/stock.png";
 const { SubMenu } = Menu;
@@ -37,7 +38,7 @@ const Navbar = () => {
       <Divider type="vertical" />
 
       <Menu
-        style={{ width: 256 }}
+        style={{ width: 320 }}
         defaultSelectedKeys={["1"]}
         defaultOpenKeys={["sub1"]}
         mode={mode}
@@ -84,6 +85,9 @@ const Navbar = () => {
             <Link to="/news">Stock News</Link>
           </Menu.Item>
         </SubMenu>
+        <Menu.Item icon={<BookOutlined /> }>
+          <Link to="/knowledge">Knowledge</Link>
+        </Menu.Item>
         <Menu.Item icon={<InfoCircleTwoTone />}>
           <Link to="/aboutus">About Us</Link>
         </Menu.Item>
