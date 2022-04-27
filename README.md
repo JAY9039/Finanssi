@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# FINANSSI
+## Your very own Finance App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+- Finanssi is a tool to track your profit/loss, news, information regarding investments in stocks and crypto. 
 
-## Available Scripts
+                            - ✨LETS TALK FINANCE✨-
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Gets the user the Top Gainers and Top Looser in the Securities Market and Crypto Markets.
+- It also provide information of the major Cryto-Curriencies about their price and gain/loss in one day.
+- Provides the latest data of the top market headlines.
+-The Knowledge Section provides tutorial about the what is what. 
+-Our USP(Unique Selling Proposition) is that the user can track all his investment related details, be it Crypto or Market Securities.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> “If you don't find a way to make money while you sleep, you will work until you die.”
 
-### `npm test`
+## Tech Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Dillinger uses a number of open source projects to work properly:
 
-### `npm run build`
+- Reactjs
+- Redux toolkit
+- UI Libraries Like: MaterialUi and Antdesign 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+cd stock-info
+npm install
+npm start
+```
+For production environments...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+npm install --production
+NODE_ENV=production node app
+```
 
-### `npm run eject`
+## Development
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Want to collaborate? Great!
+Email - Mailtojaysharma@gmail.com
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Verify the deployment by navigating to your server address in
+your preferred browser.
+```sh
+127.0.0.1:3000
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT
+**Free Software. Namaste🙏
