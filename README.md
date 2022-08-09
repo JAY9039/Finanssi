@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 - Finanssi is a tool to track your profit/loss, news, information regarding investments in stocks and crypto. 
 
-                                                     - ✨LETS TALK FINANCE✨-
+                                    - ✨LETS TALK FINANCE✨-
 
 ## Features
 
