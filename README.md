@@ -1,4 +1,4 @@
-# <h1 align="center">[FINANSSI - Your very own Finance App](https://finanssi.netlify.app/)</h1>
+# <h1 align="center">[FINANSSI - Your Very Own Finance App](https://finanssi.netlify.app/)</h1>
 
 <h3 align="center"> Finanssi is a tool to track changes for your faviourite Crypto Coins and Stocks, News about the recent market changes, Information regarding how investments work in stocks and coin market.</h3>
 
@@ -33,6 +33,7 @@ npm start
 
 Want to collaborate? Great!
 Email - Mailtojaysharma@gmail.com
+linkedIn - https://www.linkedin.com/in/j-shharma/
 
 <h1 align="center"> Click on any of the Hearts below to go to the Hosted App </h1>
 <h1 align="center"> ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ </h1>
@@ -40,6 +41,5 @@ Email - Mailtojaysharma@gmail.com
 [ 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 ](https://finanssi.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50d82042-b0c6-490b-8d5b-58c96036d73a/deploy-status)](https://app.netlify.com/sites/finanssi/deploys)
-[✨LETS TALK FINANCE✨](https://finanssi.netlify.app/)
 
 **Made with ♥ by** [Jay Sharma](https://www.linkedin.com/in/j-shharma/)
