@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const NiftyFiftyDetails = () => {
-  return (
-    <div>NiftyFiftyDetails</div>
-  )
-}
+  return <div>NiftyFiftyDetails</div>;
+};
 
-export default NiftyFiftyDetails
+export default NiftyFiftyDetails;

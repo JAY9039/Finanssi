@@ -1,21 +1,16 @@
-# FINANSSI
-## Your very own Finance App
+# <h1 align="center">[FINANSSI - Your very own Finance App](https://finanssi.netlify.app/)</h1>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-- Finanssi is a tool to track your profit/loss, news, information regarding investments in stocks and crypto. 
-
-                                    [✨LETS TALK FINANCE✨](https://finanssi.netlify.app/)
+<h3 align="center"> Finanssi is a tool to track changes for your faviourite Crypto Coins and Stocks, News about the recent market changes, Information regarding how investments work in stocks and coin market.</h3>
 
 ## Features
 
 - Gets the user the Top Gainers and Top Looser in the Securities Market and Crypto Markets.
 - It also provide information of the major Cryto-Curriencies about their price and gain/loss in one day.
 - Provides the latest data of the top market headlines.
--The Knowledge Section provides tutorial about the what is what. 
--Our USP(Unique Selling Proposition) is that the user can track all his investment related details, be it Crypto or Market Securities.
+- The Knowledge Section provides tutorial about the what is what.
+- Our USP(Unique Selling Proposition) is that the user can track all his investment related details, be it Crypto or Market Securities.
 
-
-> “If you don't find a way to make money while you sleep, you will work until you die.”
+> “If you don't find a way to make money while you sleep, you will work until you die.” - Warren buffett
 
 ## Tech Used
 
@@ -23,20 +18,15 @@ Dillinger uses a number of open source projects to work properly:
 
 - Reactjs
 - Redux toolkit
-- UI Libraries Like: MaterialUi and Antdesign 
+- UI Libraries Like: MaterialUi and Antdesign
 
 ## Installation
 
 ```sh
-cd stock-info
-npm install
+git clone https://github.com/JAY9039/Finanssi.git
+cd finanssi
+npm i or npm install
 npm start
-```
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
 ```
 
 ## Development
@@ -44,14 +34,12 @@ NODE_ENV=production node app
 Want to collaborate? Great!
 Email - Mailtojaysharma@gmail.com
 
+<h1 align="center"> Click on any of the Hearts below to go to the Hosted App </h1>
+<h1 align="center"> ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ </h1>
 
-Verify the deployment by navigating to your server address in
-your preferred browser.
-```sh
-127.0.0.1:3000
-```
+[ 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 ](https://finanssi.netlify.app/)
 
-## License
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50d82042-b0c6-490b-8d5b-58c96036d73a/deploy-status)](https://app.netlify.com/sites/finanssi/deploys)
+[✨LETS TALK FINANCE✨](https://finanssi.netlify.app/)
 
-MIT
-**Free Software. Namaste🙏
+**Made with ♥ by** [Jay Sharma](https://www.linkedin.com/in/j-shharma/)

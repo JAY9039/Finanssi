@@ -15,7 +15,7 @@ import {
   NiftyFifty,
   CryptoDetails,
   LineChart,
-  NiftyFiftyDetails
+  NiftyFiftyDetails,
 } from "./components";
 import Knowledge from "./components/Knowledge";
 import "./App.css";
@@ -84,7 +84,7 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            StockInfo <br />
+            FINANSSI: Your very own Finance App <br />
             All rights reserved
           </Typography.Title>
           <Space>
